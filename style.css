@@ -102,7 +102,6 @@ main {
 
         display: flex;
         flex-direction: row-reverse;
-
     }
     .img-sec {
         background-image: url(images/image-header-desktop.jpg);
@@ -125,7 +124,7 @@ main {
         align-items: flex-start;
     }    
     .heading h2 {
-        font-size: 2.3rem;
+        font-size: 36.8px;
         width: 400px;
     }
     .heading p {
