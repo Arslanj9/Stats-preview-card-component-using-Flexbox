@@ -105,7 +105,7 @@ main {
 
     }
     .img-sec {
-        background-image: url(/images/image-header-desktop.jpg);
+        background-image: url(images/image-header-desktop.jpg);
         background-size: contain;
 
         border-top-left-radius: 0px;
